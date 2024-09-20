@@ -6,6 +6,6 @@ dotnet add package MongoDB.Driver
 
 
   "MongoDBSettings": {
-    "ConnectionString": "mongodb+srv://admin:@Etec123#@cluster0.q37ppsb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "ConnectionString": "mongodb+srv://t3st3133:<123456789!>@cluster0.ldsdg.mongodb.net/?reWritestry=true&w=majority&appName=Cluster0",
     "DatabaseName": "EtecShop"
   },
